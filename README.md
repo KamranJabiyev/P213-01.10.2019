@@ -8,7 +8,10 @@ https://www.w3schools.com/css/css3_box-sizing.asp
 
 reset css cdn: https://cdnjs.com/libraries/meyer-reset
 
+
+
 Tapshiriq:
 
 1.https://open.az/ - layoutunu yigmaq
-2.tapshiriq.png - layoutunu yigmaq
+
+2.tapshiriq.jpg - layoutunu yigmaq
