@@ -1,0 +1,32 @@
+/* .test {
+    color: red;
+}
+
+ul.test {
+    font-size: 30px;
+} */
+
+
+/* .test li{
+    display: inline-block;
+} */
+
+
+/* .a {
+    list-style-position: inside;
+} */
+
+
+/* h1 {
+    font-size: 40px;
+    font-weight: bold;
+} */
+
+div {
+    width: 500px;
+    height: 100px;
+    background: grey;
+    border: 1px solid;
+    padding: 20px;
+    box-sizing: border-box;
+}
